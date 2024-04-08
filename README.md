@@ -1,1 +1,1 @@
-Criei um jogo de batalha naval, neste projeto eu estava praticando funções assim como loops e array no front-end
+Desenvolvi esse projeto com o objetivo de desenvolver um jogo de batalha naval simples utilizando o JavaScript e as funções fornecidas. A ideia é que se possa alocar navios em um tabuleiro, fazer suposições sobre a localização dos navios e verificar se conseguiu afundar todos.
